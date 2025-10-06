@@ -1,6 +1,4 @@
 
-# Energy-Consumption-Time-Series-Forecasting
-=======
 # 🔋 Energy Consumption Time Series Forecasting
 
 ## 📌 Project Overview & Objective
