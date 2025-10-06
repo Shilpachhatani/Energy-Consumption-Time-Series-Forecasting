@@ -126,7 +126,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn statsmodels prophet xgb
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/AhsanNFt/Energy-Consumption-Time-Series-Forecasting.git
+git clone https://github.com/Shilpachhatani/Energy-Consumption-Time-Series-Forecasting.git
 
 # 2. Navigate to the project directory
 cd Energy-Consumption-Time-Series-Forecasting
@@ -142,5 +142,5 @@ Have an idea or want to improve something? Contributions are welcome! Please ope
 ## 📬 Contact
 
 For questions or collaboration:
-- GitHub: `AhsanNFt`
-- Email: syedahsan0991@gmail.com
+- GitHub: `Shilpachhatani`
+- Email: shilpachhatani669@gmail.com
